@@ -6,3 +6,5 @@ ScC#E: Scorp's C# Engine
 It utilizes .NET's cnc.exe file for compilation therefore it requires you to install dotnet into the dotnet folder.
 Once you're done making changes to code you can compile all scripts into an executable game using compile.sh in the scripts folder.
 DOCUMENTATION COMING SOON
+
+Also all of the scripts in the /scripts folder can be deleted (apart from compile.sh), they are just an example of how classes work.
