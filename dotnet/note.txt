@@ -1,0 +1,3 @@
+In this folder goes your .NET installation that has the csc.exe file required for compiling C# scripts.
+After installing .NET the csc folders should be located in C:\Windows\Microsoft.NET\Framework. Choose one of the versions and copy paste their contents here.
+After that the engine will be able to be compiled.
